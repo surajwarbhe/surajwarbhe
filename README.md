@@ -1,23 +1,29 @@
-### Hi there, I'm Suraj Warbhe 👋
+### Hi there, 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+#### "𝗘𝘃𝗲𝗿𝘆 𝘀𝘁𝗼𝗿𝘆 𝗜 𝗰𝗿𝗲𝗮𝘁𝗲, 𝗰𝗿𝗲𝗮𝘁𝗲𝘀 𝗺𝗲. 𝗜 𝘄𝗿𝗶𝘁𝗲 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝗺𝘆𝘀𝗲𝗹𝗳"
+This is Suraj Warbhe and I am creating my story of 'B. Tech' from Vishwakarma Institute of Information Technology, Pune as a IT Engineer.
 
+<img align="right" alt="GIF" src="https://github.com/surajwarbhe/surajwarbhe/blob/main/giffy.gif" width="408" height="318" />
 
-Here are some ideas to get you started:
+▶ I am...
+- Responsible, 
+- Self-confident, 
+- Loyal, 
+- Ambitious &
+- Decisive Person
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+------------
 
+**Talking about Personal Stuffs:**
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajwarbhe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+- 👨‍✈️ I’m looking for the Role of **Cloud & DevOps Engineer**;
+- 💬 I regulary write articles on [Medium](https://medium.com/@surajwarbhe777);
+- 📝 I regulary write blogs on [DEV](https://dev.to/surajwarbhe);
+- 🔎 I'm looking forward to enhance my skills and knowledge by working in challenging work environment and utilize it.
+- 🕶 I'm passionate to do anything from coding to designing software to solving problems, even if it doesn't involve technology & programming
+- 📫 How to reach me: surajwarbhe777@gmail.com
+- 📝 [Resume](https://drive.google.com/file/d/1Ra9gxjfmQB3grjCXxyIyOVXLbn1VwdxT/view?usp=sharing)
 
 -------------
 ### Skills
@@ -45,24 +51,25 @@ Here are some ideas to get you started:
 - **[Employee Salary Predictor:](https://www.linkedin.com/posts/suraj-warbhe_internship-makingindiafutureready-summertraining2021-activity-6803700206190899200-dccm/)** ML model which predicts Salary of employee through their working experience
 - **[Vaccine Management System:](https://github.com/surajwarbhe/Vaccine_Management_System)** Managed and store database of Vaccination program
 - **[Photo-Editor App:](https://drive.google.com/file/d/1WmkTHsaypv1wF7TwFqAixRBsbc3YGTuW/view?usp=sharing)** Beautiful image-editing app for Android
--------------
-### Links
-- <a href="https://github.com/surajwarbhe/"><img alt="GitHub" title="GitHub" height="24" width="24" src="https://raw.githubusercontent.com/codenameakshay/codenameakshay/master/assets/uil_github-alt.svg"></a> **:** [codenameakshay](https://github.com/codenameakshay/)
-- <a href="https://www.instagram.com/codename_photographer/"><img alt="Instagram" title="Instagram" height="24" width="24" src="https://raw.githubusercontent.com/codenameakshay/codenameakshay/master/assets/uil_instagram.svg"></a> **:** [codename_photographer](https://www.instagram.com/codename_photographer/)
-- <a href="https://www.linkedin.com/in/codenameakshay/"><img alt="LinkedIn" title="LinkedIn" height="24" width="24" src="https://raw.githubusercontent.com/codenameakshay/codenameakshay/master/assets/uil_linkedin-alt.svg"></a> **:** [codenameakshay](https://www.linkedin.com/in/codenameakshay/)
-- <a href="https://www.reddit.com/user/CodeNameAkshay"><img alt="Reddit" title="Reddit" height="24" width="24" src="https://raw.githubusercontent.com/codenameakshay/codenameakshay/master/assets/uil_reddit-alien-alt.svg"></a> **:** [CodeNameAkshay](https://www.reddit.com/user/CodeNameAkshay)
-- <a href="https://t.me/codenameakshay"><img alt="Telegram" title="Telegram" height="24" width="24" src="https://raw.githubusercontent.com/codenameakshay/codenameakshay/master/assets/uil_telegram-alt.svg"></a> **:** [codenameakshay](https://t.me/codenameakshay)
-- <a href="https://twitter.com/codenameakshay/"><img alt="Twitter" title="Twitter" height="24" width="24" src="https://raw.githubusercontent.com/codenameakshay/codenameakshay/master/assets/uil_twitter-alt.svg"></a> **:** [codenameakshay](https://twitter.com/codenameakshay)
-- <a href="https://www.youtube.com/channel/UCBSEFstqptgtYsLSAdq8tKg"><img alt="YouTube" title="YouTube" height="24" width="24" src="https://raw.githubusercontent.com/codenameakshay/codenameakshay/master/assets/uil_youtube.svg"></a> **:** [ShiftPlus](https://www.youtube.com/channel/UCBSEFstqptgtYsLSAdq8tKg)
 
 -------------
 ### Stats
 
 |  Stats      | Langs           | Streak  |
 |:-------------:|:-------------:|:-----:|
-| ![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=codenameakshay&show_icons=true&theme=dark)      | [![Akshay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameakshay&layout=compact&theme=dark)](https://github.com/codenameakshay?tab=repositories) | [![Akshay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codenameakshay&theme=dark)](https://github.com/codenameakshay?tab=repositories) |
+| ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajwarbhe&show_icons=true&theme=dark)      | [![Suraj's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajwarbhe&layout=compact&theme=dark)](https://github.com/surajwarbhe?tab=repositories) | [![Suraj's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajwarbhe&theme=dark)](https://github.com/surajwarbhe?tab=repositories) |
+
+-------------
+### Links
+- <a href="https://github.com/surajwarbhe/"><img alt="GitHub" title="GitHub" height="24" width="24" src="https://github.com/surajwarbhe/surajwarbhe/blob/main/uil_github-alt.svg"></a> **:** [surajwarbhe](https://github.com/surajwarbhe/)
+- <a href="https://www.linkedin.com/in/suraj-warbhe/"><img alt="LinkedIn" title="LinkedIn" height="24" width="24" src="https://github.com/surajwarbhe/surajwarbhe/blob/main/uil_linkedin-alt.svg"></a> **:** [Suraj Warbhe](https://www.linkedin.com/in/suraj-warbhe/)
+- <a href="https://www.instagram.com/surajwarbhe_/"><img alt="Instagram" title="Instagram" height="24" width="24" src="https://github.com/surajwarbhe/surajwarbhe/blob/main/uil_instagram.svg"></a> **:** [surajwarbhe_](https://www.instagram.com/surajwarbhe_/)
+- <a href="https://www.youtube.com/channel/UCqc8dSjukO5kXjgI10lDr8w"><img alt="YouTube" title="YouTube" height="24" width="24" src="https://github.com/surajwarbhe/surajwarbhe/blob/main/uil_youtube.svg"></a> **:** [Zero.1](https://www.youtube.com/channel/UCqc8dSjukO5kXjgI10lDr8w)
+- <a href="https://hub.docker.com/u/surajwarbhe/"><img alt="DockerHub" title="DockerHub" height="24" width="24" src="https://github.com/surajwarbhe/surajwarbhe/blob/main/docker.png"></a> **:** [surajwarbhe](https://hub.docker.com/u/surajwarbhe/)
+- <a href="https://galaxy.ansible.com/surajwarbhe/"><img alt="Ansible Galaxy" title="Ansible Galaxy" height="24" width="24" src="https://github.com/surajwarbhe/surajwarbhe/blob/main/Ansible-Mark-Large-RGB-Mango.png"></a> **:** [surajwarbhe](https://galaxy.ansible.com/surajwarbhe/)
+- <a href="https://artifacthub.io/packages/search?ts_query_web=surajwarbhe&sort=relevance&page=1"><img alt="Artifact Hub" title="Artifact Hub" height="24" width="24" src="https://github.com/surajwarbhe/surajwarbhe/blob/main/download.jpg"></a> **:** [surajwarbhe](https://artifacthub.io/packages/search?ts_query_web=surajwarbhe&sort=relevance&page=1)
 
 -------------
 
 
-![Akshay's Profile Views](https://komarev.com/ghpvc/?username=LiquidatorCoder&color=74ff0a&label=Stalkers)
+![Suraj's Profile Views](https://komarev.com/ghpvc/?username=surajwarbhe&color=74ff0a&label=Stalkers)
