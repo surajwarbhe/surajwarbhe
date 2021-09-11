@@ -40,7 +40,7 @@ This is Suraj Warbhe and I am creating my story of 'B. Tech' from Vishwakarma In
 - **Data Essentials:** Firebase, MongoDB, JSON, Hive, MySQL, DynamoDB
 - **Operating System:** RHEL-8, Ubuntu, Windows 10, Amazon Linux
 - **Software Essentials:** Git, Terminal, VSCode
-- **Other:** Microsoft Office, GitHub
+- **Other:** Microsoft Office, G-suites, GitHub
 
 -------------
 ### Projects
