@@ -3,7 +3,7 @@
 #### "𝗘𝘃𝗲𝗿𝘆 𝘀𝘁𝗼𝗿𝘆 𝗜 𝗰𝗿𝗲𝗮𝘁𝗲, 𝗰𝗿𝗲𝗮𝘁𝗲𝘀 𝗺𝗲. 𝗜 𝘄𝗿𝗶𝘁𝗲 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝗺𝘆𝘀𝗲𝗹𝗳"
 This is Suraj Warbhe and I am creating my story of 'B. Tech' from Vishwakarma Institute of Information Technology, Pune as a IT Engineer.
 
-<img align="right" alt="GIF" src="https://github.com/surajwarbhe/surajwarbhe/blob/main/giffy.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://simplecoding.dev/assets/devops.gif" width="408" height="318" />
 
 ▶ I am...
 - Responsible, 
