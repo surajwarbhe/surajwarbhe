@@ -1,3 +1,11 @@
+<h3 align="center"> Welcome to  SURAJ's  Profile  !
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20DevOps%20Engineer&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
+
 ### Hi there, 👋
 
 #### "𝗘𝘃𝗲𝗿𝘆 𝘀𝘁𝗼𝗿𝘆 𝗜 𝗰𝗿𝗲𝗮𝘁𝗲, 𝗰𝗿𝗲𝗮𝘁𝗲𝘀 𝗺𝗲. 𝗜 𝘄𝗿𝗶𝘁𝗲 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝗺𝘆𝘀𝗲𝗹𝗳"
@@ -28,16 +36,14 @@ This is Suraj Warbhe and I am creating my story of 'B. Tech' from Vishwakarma In
 -------------
 ### Skills
 
-- **Programming Languages:** C, C++, Python, JAVA, DART 
+- **Programming Languages:** C, C++, Python, JAVA
 - **Web Technologies**: HTML, CSS, JavaScript
-- **DevOps:** Ansible, Docker, Kubernetes, Jenkins, Terraform, Prometheus, Grafana, OpenShift, Git and GitHub
-- **Cloud Computing:** AWS, GCP, Microsoft Azure, Openstack
+- **DevOps:** Ansible, Docker, Kubernetes, Jenkins, Terraform, Git and GitHub
+- **Cloud Computing:** AWS, GCP, Microsoft Azure
 - **Data Science:** Machine Learning, Deep Learning
 - **Data Structures:** Array, Linked List, Queue, Stack, Trees, Graphs, Searching and sorting
-- **Frameworks:** Flask
 - **App Development:** Flutter
-- **Big Data:** Hadoop, Apache Hive, Sqoop, Spark, Apache Pig
-- **Data Essentials:** Firebase, MongoDB, JSON, Hive, MySQL, DynamoDB
+- **Data Essentials:** MongoDB, MySQL, DynamoDB
 - **Operating System:** RHEL-8, Ubuntu, Windows 10, Amazon Linux
 - **Software Essentials:** Git, Terminal, VSCode
 - **Other:** Microsoft Office, G-suites, GitHub
