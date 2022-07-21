@@ -37,13 +37,10 @@ This is Suraj Warbhe and I am creating my story of 'B. Tech' from Vishwakarma In
 ### Skills
 
 - **Programming Languages:** C, C++, Python, JAVA
-- **Web Technologies**: HTML, CSS, JavaScript
 - **DevOps:** Ansible, Docker, Kubernetes, Jenkins, Terraform, Git and GitHub
 - **Cloud Computing:** AWS, GCP, Microsoft Azure
 - **Data Science:** Machine Learning, Deep Learning
 - **Data Structures:** Array, Linked List, Queue, Stack, Trees, Graphs, Searching and sorting
-- **App Development:** Flutter
-- **Data Essentials:** MongoDB, MySQL, DynamoDB
 - **Operating System:** RHEL-8, Ubuntu, Windows 10, Amazon Linux
 - **Software Essentials:** Git, Terminal, VSCode
 - **Other:** Microsoft Office, G-suites, GitHub
