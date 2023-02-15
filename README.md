@@ -52,7 +52,7 @@ This is Suraj Warbhe and I am creating my story of 'B. Tech' from Vishwakarma In
 - **[Live Streaming Video Chat Application:](https://www.linkedin.com/posts/suraj-warbhe_vimaldaga-righteducation-educationredefine-activity-6809133064363528192-Mi6L)** UDP protocol & ML based Video Chat Application
 - **[Employee Salary Predictor:](https://www.linkedin.com/posts/suraj-warbhe_internship-makingindiafutureready-summertraining2021-activity-6803700206190899200-dccm/)** ML model which predicts Salary of employee through their working experience
 - **[Vaccine Management System:](https://github.com/surajwarbhe/Vaccine_Management_System)** Managed and store database of Vaccination program
-- **[Photo-Editor App:](https://www.linkedin.com/posts/suraj-warbhe_worldrecordholder-training-internship-activity-6832610047273639936-2D3R)** Beautiful image-editing app for Android
+- **[Photo-Editor App:](https://www.linkedin.com/posts/suraj-warbhe_worldrecordholder-training-internship-activity-6832610047273639936-2D3R)** Flutter based beautiful image-editing app for Android
 
 -------------
 ### Stats
