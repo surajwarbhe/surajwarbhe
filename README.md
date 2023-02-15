@@ -31,7 +31,6 @@ This is Suraj Warbhe and I am creating my story of 'B. Tech' from Vishwakarma In
 - 🔎 I'm looking forward to enhance my skills and knowledge by working in challenging work environment and utilize it.
 - 🕶 I'm passionate to do anything from coding to designing software to solving problems, even if it doesn't involve technology & programming
 - 📫 How to reach me: surajwarbhe777@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1Ra9gxjfmQB3grjCXxyIyOVXLbn1VwdxT/view?usp=sharing)
 
 -------------
 ### Skills
