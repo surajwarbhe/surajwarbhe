@@ -25,7 +25,7 @@ This is Suraj Warbhe and I am creating my story of 'B. Tech' from Vishwakarma In
 
 **Talking about Personal Stuffs:**
 
-- 👨‍✈️ I’m looking for the Role of **Cloud & DevOps Engineer**;
+- 👨‍✈️ I’m looking for the Role of **DevOps Engineer**;
 - 💬 I regulary write articles on [Medium](https://medium.com/@surajwarbhe777);
 - 📝 I regulary write blogs on [DEV](https://dev.to/surajwarbhe);
 - 🔎 I'm looking forward to enhance my skills and knowledge by working in challenging work environment and utilize it.
